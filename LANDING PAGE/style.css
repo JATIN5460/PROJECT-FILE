@@ -1,0 +1,96 @@
+*{
+    background-color: black;
+    color: white;
+
+}
+.ed-1{
+    font-size: larger;
+    padding: 10px;
+    margin-left: 100px;
+    border-radius: 10px;
+    margin-top: 10px;
+   
+} 
+.ed-1:hover{
+    opacity: 0.75;
+}
+
+.form #edit{
+     font-size: larger;
+}
+
+.form #em-1{
+    
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 30px;
+    background-color: azure;
+    color: black;
+    
+}
+
+.images .para-1{
+    font-size: 20px;
+}
+
+.images #e-1{
+    height: fit-content;
+}
+
+.footer .list-cont-foot {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 13.5pt;
+    font-weight: 600;
+    margin-bottom: 10px;
+    position: relative;
+    transition: all .2s;
+    text-decoration: none;
+}
+
+
+   
+.footer .list-cont-foot-right{
+    list-style-type:none ;
+    text-decoration: overline;
+    line-height: 1.5;
+    display: inline-block;
+    font-size: 13.5pt;
+    font-weight: 600;
+    margin-bottom: 10px;
+    position: relative;
+    transition: all .2s;
+    text-decoration: none;
+    margin-left: 400px;
+    text-decoration: none;
+}
+
+
+
+.footer .list-cont-right-2{
+    list-style-type:none ;
+    line-height: 1.5;
+    display: inline-block;
+    font-size: 13.5pt;
+    font-weight: 600;
+    margin-bottom: 10px;
+    position: relative;
+    transition: all .2s;
+    text-decoration: none;
+    margin-left: 400px;
+}
+
+ 
+
+.form #edit{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
